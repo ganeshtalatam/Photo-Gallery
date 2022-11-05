@@ -53,6 +53,9 @@ img{
     }
 
     h2{
+        font-family: Ubuntu;
+        border-bottom: 2px solid #F2AA4CFF;
+        padding-bottom: 5px;
         width: 35%;
     }
 }
